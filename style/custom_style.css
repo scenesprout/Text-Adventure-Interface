@@ -1,0 +1,35 @@
+#main_page{
+    max-height: 720;
+    max-width: 720;
+    background-color: black;
+}
+
+#interface_top{
+    height: 75px;
+    width: 720px;
+    
+}
+
+#interface_main{
+    height: 535px;
+}
+
+#interface_controls{
+    height: 120px;
+}
+
+#left_column{
+    width: 120px;
+}
+
+#middle_column{
+    width: 480px;
+}
+
+#right_column{
+    width: 120px;
+}
+
+.main_text{
+    background-color: lightgray;
+}
